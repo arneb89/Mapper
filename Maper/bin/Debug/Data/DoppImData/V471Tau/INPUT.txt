@@ -1,0 +1,12 @@
+Number of latitude belts;
+ N           30
+Number of subequator patches;    
+ M           60 
+Inclination of the star's rotation axis to the line of sight [deg]; 
+ INC         45       
+Velosity VSin(i) [km/s];    
+ VSINI       66.5     
+Path to the model spectrums file (relative path);
+ PATH_MOD    SpGrid.dat  
+Path to the observed lines file (relative path); 
+ PATH_OBS    SpSet.txt

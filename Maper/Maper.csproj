@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66CF3FAA-748A-4E67-9B92-A9E29B9DA0D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Maper</RootNamespace>
+    <AssemblyName>Maper</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="alglibnet2, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Programming\alglibnet2.dll</HintPath>
+    </Reference>
+    <Reference Include="csgl, Version=1.4.1.0, Culture=neutral, PublicKeyToken=d8fb3bdb88c36cd4" />
+    <Reference Include="CsGL.Basecode, Version=1.0.0.0, Culture=neutral" />
+    <Reference Include="DotNumerics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="MathLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MathLib\MathLib\MathLib\bin\Debug\MathLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="NPlot, Version=0.9.10.0, Culture=neutral, PublicKeyToken=4eda430eb4395eb1">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\nplot-0.9.10.0\nplot-0.9.10.0\bin\mono\1.0\debug\NPlot.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Threading, Version=1.0.2677.102, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CircSpot.cs" />
+    <Compile Include="Counter.cs" />
+    <Compile Include="Delegates.cs" />
+    <Compile Include="DiskViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiskViewer.Designer.cs">
+      <DependentUpon>DiskViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DopplerImaging\DoppImager.cs" />
+    <Compile Include="DopplerImaging\InputObsSpectra.cs" />
+    <Compile Include="LCGenerator1.cs" />
+    <Compile Include="LCM\LevenbergMaquard.cs" />
+    <Compile Include="LinearLimbDarkeningLow.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GNHelper.cs" />
+    <Compile Include="DopplerImaging\GNHelperForDI.cs" />
+    <Compile Include="GNHelperForDI1.cs" />
+    <Compile Include="IcoSurface.cs" />
+    <Compile Include="DopplerImaging\InputDI.cs" />
+    <Compile Include="IntensityProvider1D.cs" />
+    <Compile Include="IntensityProvider2D.cs" />
+    <Compile Include="IterRegHelper.cs" />
+    <Compile Include="LCBox.cs" />
+    <Compile Include="LCGenerator.cs" />
+    <Compile Include="LCM\LCContainer.cs" />
+    <Compile Include="LCM\LCModeller.cs" />
+    <Compile Include="LCM\LCMDelegates.cs" />
+    <Compile Include="LCM\LCModeller1.cs" />
+    <Compile Include="LCM\LightCurveParsInitBox.cs" />
+    <Compile Include="LCM\MultiSpotMapper.cs" />
+    <Compile Include="LCM\MultiSpotMapper1.cs" />
+    <Compile Include="LCM\OneSpotModeling.cs" />
+    <Compile Include="LCM\SpotParsInitBox.cs" />
+    <Compile Include="LightCurve.cs" />
+    <Compile Include="MapView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapView.Designer.cs">
+      <DependentUpon>MapView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinFind.cs" />
+    <Compile Include="Noiser.cs" />
+    <Compile Include="Patch.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DiskViewer.resx">
+      <DependentUpon>DiskViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapView.resx">
+      <DependentUpon>MapView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SurfaceViewer3D.resx">
+      <DependentUpon>SurfaceViewer3D.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SurfaceViewerForm.resx">
+      <DependentUpon>SurfaceViewerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RecF.cs" />
+    <Compile Include="Reconstr.cs" />
+    <Compile Include="DopplerImaging\SpectrGrid.cs" />
+    <Compile Include="DopplerImaging\SpectrumInterpPL.cs" />
+    <Compile Include="RectSpot.cs" />
+    <Compile Include="SpotPatch.cs" />
+    <Compile Include="Star.cs" />
+    <Compile Include="StokesImaging\ArcParsInitBox.cs" />
+    <Compile Include="StokesImaging\Delegates.cs" />
+    <Compile Include="StokesImaging\LinInterpolator.cs" />
+    <Compile Include="StokesImaging\LinInterpolator2D.cs" />
+    <Compile Include="StokesImaging\MagnetizedSurface.cs" />
+    <Compile Include="StokesImaging\StokesCurvesBox.cs" />
+    <Compile Include="StokesImaging\StokesMapper.cs" />
+    <Compile Include="StokesImaging\StokesModeller.cs" />
+    <Compile Include="StokesImaging\StokesParsProvider.cs" />
+    <Compile Include="StokesImaging\WM85Interpolator.cs" />
+    <Compile Include="Surface.cs" />
+    <Compile Include="SurfaceViewer3D.cs">
+    </Compile>
+    <Compile Include="SurfaceViewer3D.designer.cs">
+      <DependentUpon>SurfaceViewer3D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SurfaceViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SurfaceViewerForm.designer.cs">
+      <DependentUpon>SurfaceViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyperArray.cs" />
+    <Compile Include="TSurface.cs" />
+    <Compile Include="UniformCircSpot.cs" />
+    <Compile Include="Viewer3D.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

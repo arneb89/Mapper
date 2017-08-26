@@ -1,0 +1,122 @@
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\bin\Debug\Maper.exe
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\bin\Debug\Maper.pdb
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.exe
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.pdb
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\bin\Debug\NPlot.dll
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\bin\Debug\NPlot.xml
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\bin\Debug\MathLib.xml
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.SurfaceViewer.resources
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\bin\Debug\MathLib.pdb
+C:\Documents and Settings\Admin\Мои документы\Практика 2010\Maper\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.exe
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.pdb
+D:\Diploma 2010\Maper\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.Form1.resources
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.SurfaceViewer.resources
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Diploma 2010\Maper\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+D:\Diploma 2010\Maper\Maper\bin\Debug\Maper.exe
+D:\Diploma 2010\Maper\Maper\bin\Debug\Maper.pdb
+D:\Diploma 2010\Maper\Maper\bin\Debug\NPlot.xml
+D:\Diploma 2010\Maper\Maper\bin\Debug\MathLib.pdb
+D:\Diploma 2010\Maper\Maper\bin\Debug\MathLib.xml
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.exe
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.pdb
+D:\Diploma 2010\Mapper\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.Form1.resources
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.SurfaceViewer.resources
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Diploma 2010\Mapper\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+D:\Diploma 2010\Mapper\Maper\bin\Debug\Maper.exe
+D:\Diploma 2010\Mapper\Maper\bin\Debug\Maper.pdb
+D:\Diploma 2010\Mapper\Maper\bin\Debug\NPlot.xml
+D:\Diploma 2010\Mapper\Maper\bin\Debug\MathLib.pdb
+D:\Diploma 2010\Mapper\Maper\bin\Debug\MathLib.xml
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.exe
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.pdb
+D:\Diploma2011\Mapper\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.Form1.resources
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.SurfaceViewer.resources
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Diploma2011\Mapper\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+D:\Diploma2011\Mapper\Maper\bin\Debug\Maper.exe
+D:\Diploma2011\Mapper\Maper\bin\Debug\Maper.pdb
+D:\Diploma2011\Mapper\Maper\bin\Debug\MathLib.dll
+D:\Diploma2011\Mapper\Maper\bin\Debug\NPlot.xml
+D:\Diploma2011\Mapper\Maper\bin\Debug\MathLib.pdb
+D:\Diploma2011\Mapper\Maper\bin\Debug\MathLib.xml
+D:\Projects\Mapper\Maper\obj\Debug\Maper.exe
+D:\Projects\Mapper\Maper\obj\Debug\Maper.pdb
+D:\Projects\Mapper\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Mapper\Maper\obj\Debug\Maper.Form1.resources
+D:\Projects\Mapper\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Projects\Mapper\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Projects\Mapper\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+D:\Projects\Mapper\Maper\bin\Debug\Maper.exe
+D:\Projects\Mapper\Maper\bin\Debug\Maper.pdb
+D:\Projects\Mapper\Maper\bin\Debug\MathLib.dll
+D:\Projects\Mapper\Maper\bin\Debug\MathLib.pdb
+D:\Projects\Mapper\Maper\bin\Debug\MathLib.xml
+D:\Projects\Mapper\Maper\obj\Debug\Maper.SurfaceViewer3D.resources
+D:\Projects\Mapper\Maper\bin\Debug\DotNumerics.xml
+D:\Projects\Mapper\Maper\bin\Debug\Maper.exe.config
+D:\Projects\Mapper\Maper\obj\Debug\Maper.MapView.resources
+D:\Projects\Mapper\Maper\obj\Debug\Maper.DiskViewer.resources
+\\Urania\pub\buff\Mapper\Maper\bin\Debug\Maper.exe.config
+\\Urania\pub\buff\Mapper\Maper\obj\Debug\Maper.exe
+\\Urania\pub\buff\Mapper\Maper\obj\Debug\Maper.pdb
+D:\Mapper\Maper\bin\Debug\Maper.exe.config
+D:\Mapper\Maper\obj\Debug\Maper.exe
+D:\Mapper\Maper\obj\Debug\Maper.pdb
+D:\Mapper\Maper\bin\Debug\Maper.exe
+D:\Mapper\Maper\bin\Debug\Maper.pdb
+D:\Mapper\Maper\bin\Debug\DotNumerics.xml
+D:\Mapper\Maper\bin\Debug\MathLib.pdb
+D:\Mapper\Maper\bin\Debug\MathLib.xml
+D:\Mapper\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Mapper\Maper\obj\Debug\Maper.DiskViewer.resources
+D:\Mapper\Maper\obj\Debug\Maper.Form1.resources
+D:\Mapper\Maper\obj\Debug\Maper.MapView.resources
+D:\Mapper\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Mapper\Maper\obj\Debug\Maper.SurfaceViewer3D.resources
+D:\Mapper\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Mapper\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+D:\Mapper_140802\Maper\bin\Debug\Maper.exe.config
+D:\Mapper_140802\Maper\obj\Debug\Maper.exe
+D:\Mapper_140802\Maper\obj\Debug\Maper.pdb
+D:\Mapper_140802\Maper\bin\Debug\Maper.exe
+D:\Mapper_140802\Maper\bin\Debug\Maper.pdb
+D:\Mapper_140802\Maper\bin\Debug\DotNumerics.xml
+D:\Mapper_140802\Maper\bin\Debug\MathLib.pdb
+D:\Mapper_140802\Maper\bin\Debug\MathLib.xml
+D:\Mapper_140802\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Mapper_140802\Maper\obj\Debug\Maper.DiskViewer.resources
+D:\Mapper_140802\Maper\obj\Debug\Maper.Form1.resources
+D:\Mapper_140802\Maper\obj\Debug\Maper.MapView.resources
+D:\Mapper_140802\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Mapper_140802\Maper\obj\Debug\Maper.SurfaceViewer3D.resources
+D:\Mapper_140802\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Mapper_140802\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
+D:\Mapper_141017\Maper\bin\Debug\Maper.exe.config
+D:\Mapper_141017\Maper\obj\Debug\Maper.exe
+D:\Mapper_141017\Maper\obj\Debug\Maper.pdb
+D:\Mapper_141017\Maper\bin\Debug\Maper.exe
+D:\Mapper_141017\Maper\bin\Debug\Maper.pdb
+D:\Mapper_141017\Maper\bin\Debug\DotNumerics.xml
+D:\Mapper_141017\Maper\bin\Debug\MathLib.pdb
+D:\Mapper_141017\Maper\bin\Debug\MathLib.xml
+D:\Mapper_141017\Maper\obj\Debug\ResolveAssemblyReference.cache
+D:\Mapper_141017\Maper\obj\Debug\Maper.DiskViewer.resources
+D:\Mapper_141017\Maper\obj\Debug\Maper.Form1.resources
+D:\Mapper_141017\Maper\obj\Debug\Maper.MapView.resources
+D:\Mapper_141017\Maper\obj\Debug\Maper.Properties.Resources.resources
+D:\Mapper_141017\Maper\obj\Debug\Maper.SurfaceViewer3D.resources
+D:\Mapper_141017\Maper\obj\Debug\Maper.SurfaceViewerForm.resources
+D:\Mapper_141017\Maper\obj\Debug\Maper.csproj.GenerateResource.Cache
